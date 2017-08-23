@@ -1,0 +1,119 @@
+@font-face {
+  font-family: 'SpaceMono';
+  src: url('../fonts/space-mono-regular.woff2') format('woff');
+  font-weight: 400;
+}
+@font-face {
+  font-family: 'SpaceMono';
+  src: url('../fonts/space-mono-bold.woff2') format('woff');
+  font-weight: 700;
+}
+
+* {
+  box-sizing: border-box;
+}
+::selection {
+  background-color: $dark-blue;
+  color: $light-grey;
+}
+::-moz-selection {
+  background-color: $dark-blue;
+  color: $light-grey;
+}
+
+body {
+  font-family: 'SpaceMono', Tahoma, Arial;
+  background-color: $light-grey;
+}
+
+.container {
+  display: block;
+  width: 45rem;
+  margin: 0 auto;
+  max-width: 100%;
+}
+@media (max-width: 47rem) {
+  .container {
+    width: 100%;
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+}
+
+
+.logo {
+  margin-top: 0;
+  font-size: 1.3rem;
+  display: inline-block;
+  background-color: $dark-blue;
+  color: $light-grey;
+  padding: 0.4rem 0.9rem;
+}
+
+/* Navigation bar */
+nav ul {
+  list-style: none;
+  padding-left: 0;
+  margin: 0 auto;
+}
+nav ul li {
+  display: inline-block;
+}
+nav ul li a {
+  display: block;
+  padding: 3px 10px;
+  color: $dark-blue;
+  text-decoration: none;
+  font-size: 0.9rem;
+}
+nav ul li a:hover {
+  text-decoration: underline;
+}
+nav ul li:first-child a {
+  padding-left: 0;
+}
+
+
+/* Dark border */
+.borders div {
+  position: fixed;
+  background-color: $dark-blue;
+}
+@media (max-width: 47rem) {
+  .borders div {
+    display: none;
+  }
+}
+.borders .top {
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: auto;
+  height: 10px;
+}
+.borders .right {
+  top: 0;
+  right: 0;
+  left: auto;
+  bottom: 0;
+  width: 10px;
+}
+.borders .bottom {
+  top: auto;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  height: 10px;
+}
+.borders .left {
+  top: 0;
+  right: auto;
+  left: 0;
+  bottom: 0;
+  width: 10px;
+}
+
+
+
+
+

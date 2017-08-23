@@ -1,0 +1,28 @@
+{
+  "name": "blog-en",
+  "version": "1.0.0",
+  "description": "My blog",
+  "main": "index.html",
+  "dependencies": {
+    "cssnano": "^3.10.0",
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^4.0.0",
+    "gulp-newer": "^1.3.0",
+    "gulp-postcss": "^7.0.0",
+    "gulp-preprocess": "^2.0.0",
+    "gulp-sass": "^3.1.0",
+    "normalize.css": "^7.0.0",
+    "rucksack-css": "^1.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "blog",
+    "html"
+  ],
+  "author": "Peyman Salehi <s.peyman94@gmail.com>",
+  "license": "MIT"
+}
