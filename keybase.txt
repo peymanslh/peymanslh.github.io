@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/peymanslh
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://peymansalehi.net
+  * I am peymanslh (https://keybase.io/peymanslh) on keybase.
+  * I have a public key ASBuaVm73_Rfxf4RbsAnBwgOa_BV5XsgYGvUIABKmnvUXwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01206e6959bbdff45fc5fe116ec02707080e6bf055e57b20606bd420004a9a7bd45f0a",
+      "host": "keybase.io",
+      "kid": "01206e6959bbdff45fc5fe116ec02707080e6bf055e57b20606bd420004a9a7bd45f0a",
+      "uid": "2150edc9c7d11dcb350428fbe18b6219",
+      "username": "peymanslh"
+    },
+    "merkle_root": {
+      "ctime": 1519766025,
+      "hash": "08a093bf5fca0a941e31b5d62f92f4c870a26ed6cd54cd3f8d4c2e2e5b772cdc882671fee03bc9a234436a7e655886680115c8ec6816c88a7a4168e246ca5237",
+      "hash_meta": "a51f14ea740b3b5356049641f11bcdc9d8af1a1331a7485fec03c10881788e67",
+      "seqno": 2163023
+    },
+    "service": {
+      "hostname": "peymansalehi.net",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.44"
+  },
+  "ctime": 1519766074,
+  "expire_in": 504576000,
+  "prev": "14bc547b3b94402d15342fdebc06a88a5fbe5a45b8ce89ffe03993ccba5270d0",
+  "seqno": 5,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgbmlZu9/0X8X+EW7AJwcIDmvwVeV7IGBr1CAASpp71F8Kp3BheWxvYWTFA0h7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwNmU2OTU5YmJkZmY0NWZjNWZlMTE2ZWMwMjcwNzA4MGU2YmYwNTVlNTdiMjA2MDZiZDQyMDAwNGE5YTdiZDQ1ZjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNmU2OTU5YmJkZmY0NWZjNWZlMTE2ZWMwMjcwNzA4MGU2YmYwNTVlNTdiMjA2MDZiZDQyMDAwNGE5YTdiZDQ1ZjBhIiwidWlkIjoiMjE1MGVkYzljN2QxMWRjYjM1MDQyOGZiZTE4YjYyMTkiLCJ1c2VybmFtZSI6InBleW1hbnNsaCJ9LCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTUxOTc2NjAyNSwiaGFzaCI6IjA4YTA5M2JmNWZjYTBhOTQxZTMxYjVkNjJmOTJmNGM4NzBhMjZlZDZjZDU0Y2QzZjhkNGMyZTJlNWI3NzJjZGM4ODI2NzFmZWUwM2JjOWEyMzQ0MzZhN2U2NTU4ODY2ODAxMTVjOGVjNjgxNmM4OGE3YTQxNjhlMjQ2Y2E1MjM3IiwiaGFzaF9tZXRhIjoiYTUxZjE0ZWE3NDBiM2I1MzU2MDQ5NjQxZjExYmNkYzlkOGFmMWExMzMxYTc0ODVmZWMwM2MxMDg4MTc4OGU2NyIsInNlcW5vIjoyMTYzMDIzfSwic2VydmljZSI6eyJob3N0bmFtZSI6InBleW1hbnNhbGVoaS5uZXQiLCJwcm90b2NvbCI6Imh0dHA6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjQ0In0sImN0aW1lIjoxNTE5NzY2MDc0LCJleHBpcmVfaW4iOjUwNDU3NjAwMCwicHJldiI6IjE0YmM1NDdiM2I5NDQwMmQxNTM0MmZkZWJjMDZhODhhNWZiZTVhNDViOGNlODlmZmUwMzk5M2NjYmE1MjcwZDAiLCJzZXFubyI6NSwidGFnIjoic2lnbmF0dXJlIn2jc2lnxECDNI6H01uuLsjPALAgRWORgyLDOiI9JnlkneAZVDNuuIj2B8PcMHbjjbEMVAp+wpgcEDz9oVClnqSPft7CJtIAqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgiPjCNTaSpRK58BSV6MsYVKJT3Cd4mOGQLYsaVYeoEPajdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/peymanslh
+
+==================================================================
