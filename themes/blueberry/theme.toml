@@ -1,0 +1,19 @@
+name = "Blueberry"
+license = "MIT"
+licenselink = "https://github.com/peymanslh/blueberry/blob/master/LICENSE"
+description = "Blueberry is a bold minimal blogging theme"
+
+homepage = "https://github.com/peymanslh/blueberry"
+demosite = "https://peyman.blog"
+
+tags = ["blog", "minimal", "clean", "Google analytics", "bootstrap",]
+features = ["blog"]
+
+[author]
+  name = "Peyman Salehi"
+  homepage = "https://peyman.blog"
+
+[original]
+  name = "Hugo Winston"
+  author = "Robert Austin"
+  homepage = "https://www.zerostatic.io"
