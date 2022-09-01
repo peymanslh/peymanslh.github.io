@@ -16,7 +16,7 @@
 }
 
 .menu-main {
-  display: none;
+  //display: none;
   flex: 0;
   @include breakpoint('small') {
     display: block;

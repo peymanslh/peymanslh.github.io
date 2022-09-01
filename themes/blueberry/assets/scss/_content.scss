@@ -149,3 +149,30 @@ ul {
 .dot {
   color: var(--highlight-color);
 }
+
+.row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+.column {
+  display: flex;
+  flex-direction: column;
+  flex: 100%;
+}
+
+@include breakpoint('small') {
+  .column {
+    flex: 50%;
+  }
+}
+
+.contact-about {
+  list-style: square !important;
+  margin-left: 20px;
+  li {
+    list-style: square;
+  }
+}

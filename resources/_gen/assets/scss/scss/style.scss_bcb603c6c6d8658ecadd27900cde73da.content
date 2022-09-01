@@ -39,7 +39,6 @@ h1, h2, h3 {
     margin-right: 30px; }
 
 .menu-main {
-  display: none;
   flex: 0; }
   @media (min-width: 767px) {
     .menu-main {
@@ -201,6 +200,27 @@ ul {
 
 .dot {
   color: var(--highlight-color); }
+
+.row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%; }
+
+.column {
+  display: flex;
+  flex-direction: column;
+  flex: 100%; }
+
+@media (min-width: 767px) {
+  .column {
+    flex: 50%; } }
+
+.contact-about {
+  list-style: square !important;
+  margin-left: 20px; }
+  .contact-about li {
+    list-style: square; }
 
 .intro {
   margin-bottom: 100px;
