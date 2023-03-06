@@ -1,7 +1,7 @@
 :root {
   --font-family-heading: 'Poppins', sans-serif;
   --font-family-paragraph: Helvetica, sans-serif;
-  --font-family-mono: monospace;
+  --font-family-monospace: 'IBM Plex Mono', monospace;
   --base-color: #ffffff;
   --base-offset-color: #eaeaea;
   --highlight-color: #27e8a7;
@@ -197,6 +197,11 @@ ul {
     padding: 30px;
     overflow: auto;
     font-family: var(--font-family-monospace); }
+  .content p > code {
+    background-color: var(--base-offset-color);
+    padding: 0px 4px;
+    border-radius: 3px;
+    font-size: 14px; }
 
 .dot {
   color: var(--highlight-color); }

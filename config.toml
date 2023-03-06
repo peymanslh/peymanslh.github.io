@@ -6,8 +6,11 @@ theme = "blueberry"
 
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
-pygmentsUseClasses = true
+pygmentsUseClasses = false
+PygmentsStyle = "nord"
 paginate = 9
+
+disqusShortname = 'peymanslh'
 
 [module]
   [module.hugoVersion]
