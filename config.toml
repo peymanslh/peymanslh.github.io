@@ -25,3 +25,13 @@ disqusShortname = 'peymanslh'
   showPostsOnHomepage = true
   addFrame = false
   addDot = true
+
+[taxonomies]
+    tag = "tags"
+
+copyright = "2023 Peyman Salehi All rights reserved"
+languageCode = "en-us"
+
+[Author]
+    name = "Peyman Salehi"
+    email = "slh.peyman@gmail.com"

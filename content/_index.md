@@ -1,6 +1,6 @@
 ---
 title: Notes of another software engineer
-description: I’m Peyman Salehi, a software engineer
+description: Peyman Salehi, Just another software engineer
 ---
 
 My name is Peyman Salehi and I'm a software engineer.  
