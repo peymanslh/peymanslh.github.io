@@ -5,7 +5,7 @@ tags: ["sql", "postgresql"]
 description: "Use date_trunc function in PostgreSQL to get a series of data based on a specific interval."
 draft: false
 ---
-Recently I needed to write a query in SQL to retrieve a bunch of data from a big table with a specific interval. And I don't know, is there any easier way in SQL to do this but I found date_trunc function in PostgreSQL that is an excellent solution for my problem.
+Recently I needed to write a query in SQL to retrieve a bunch of data from a big table with a specific interval. And I don't know, is there any easier way in SQL to do this but I found `date_trunc` function in PostgreSQL that is an excellent solution for my problem.
 # The problem with an example
 
 Consider the following table.
@@ -78,18 +78,20 @@ SELECT date_trunc('hour', INTERVAL '3 days 02:47:33');
 
 `date_trunc` is great for working with `datetime`, but it does not end up here. We can use it in our queries to fetch data with a specific interval based on `field` argument to this function.
 The following SQL query gives us the output that we expect.
-```sql
-select
-    DATE_TRUNC('hour', datetime) as datetime,
-	to_json(ARRAY_AGG(flight))->-1 as flight,
-    to_json(ARRAY_AGG(price order by datetime asc))->-1,
-from
+
+```sql {linenos=table}
+SELECT
+  DATE_TRUNC('hour', datetime) AS datetime,
+  TO_JSON(ARRAY_AGG(flight))->-1 AS flight,
+  TO_JSON(ARRAY_AGG(price ORDER BY datetime ASC))->-1,
+FROM
     flights
-where
+WHERE
     flight = 'AB12'
-group by
+GROUP BY
     DATE_TRUNC('hour', datetime);
 ```
+
 Query explanation:  
 Line 2: We use `date_trunc` in the select statement to get a truncated `datetime`.  
 Line 3: For each hour we have multiple rows, for example at 13:00 we have four rows of data and we need to choose one of them for output, or use an aggregate function like `count` or `avg`, but here we want the last row and we can use `to_json` and `array_agg` to get the item we want.  
