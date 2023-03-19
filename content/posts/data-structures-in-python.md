@@ -10,7 +10,7 @@ When we code in Python usually there are multiple data structures such as `list`
 ![Data structures in Python overview image](/images/posts/python-data-structures.svg)
 
 Notes:
-- **Cotainer Sequences** are sequences that can hold different types and can be nested.
+- **Container Sequences** are sequences that can hold different types and can be nested.
 - **Flat Sequences** are sequences that only can hold one simple type.
 
 I'll try to explain the above diagram from left to right. Also, I'm not going through some data structures that you are already familiar with them.
