@@ -44,3 +44,8 @@ I’ll try to write here about what I did every day.
 - Watch 4 episodes of a video course about Back-end engineering.
 - Read one hour of "The Brothers Karamazov" book.
 - Read part 0 of: [Implementing Raft](https://eli.thegreenplace.net/2020/implementing-raft-part-0-introduction/) blog post.
+
+### Day 3: August 1
+- Read blog post: [The technology behind GitHub’s new code search](https://github.blog/2023-02-06-the-technology-behind-githubs-new-code-search/)
+- Read PEP 709: [Inlined comprehensions](https://peps.python.org/pep-0709/)
+- 1 Hour learning of Java and Spring framework
