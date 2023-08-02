@@ -45,7 +45,15 @@ I’ll try to write here about what I did every day.
 - Read one hour of "The Brothers Karamazov" book.
 - Read part 0 of: [Implementing Raft](https://eli.thegreenplace.net/2020/implementing-raft-part-0-introduction/) blog post.
 
-### Day 3: August 1
+### Day 3: July 31
 - Read blog post: [The technology behind GitHub’s new code search](https://github.blog/2023-02-06-the-technology-behind-githubs-new-code-search/)
 - Read PEP 709: [Inlined comprehensions](https://peps.python.org/pep-0709/)
 - 1 Hour learning of Java and Spring framework
+
+### Day 4: August 1
+- Watch 1 episodes of a video course about Back-end engineering.
+- Read a chapter of “Cracking the Coding Interview” book.
+
+### Day 5: August 2
+- Learn Java and Spring
+- Read blog post: [Python’s multiprocessing performance problem](https://pythonspeed.com/articles/faster-multiprocessing-pickle/)
