@@ -57,3 +57,25 @@ I’ll try to write here about what I did every day.
 ### Day 5: August 2
 - Learn Java and Spring
 - Read blog post: [Python’s multiprocessing performance problem](https://pythonspeed.com/articles/faster-multiprocessing-pickle/)
+
+### Day 6: August 3
+- Read blog post: [What is API-First Development?](https://newsletter.techworld-with-milan.com/p/what-is-api-first-development)
+
+### Day 7: August 4
+- Watch 3 episodes of a video course about Back-end engineering.
+
+### Day 8: August 5
+- Watch video: [Dependency Injection, The Best Pattern](https://www.youtube.com/watch?v=J1f5b4vcxCQ)
+- Watch video: [Premature Optimization](https://www.youtube.com/watch?v=tKbV6BpH-C8)
+- Watch video: [Don't Write Comments](https://www.youtube.com/watch?v=Bf7vDBBOBUA)
+- Watch 1 episodes of a video course about Back-end engineering.
+
+### Day 9: August 6
+- Read blog: [An opinionated Python boilerplate](https://duarteocarmo.com/blog/opinionated-python-boilerplate.html)
+- Watch 3 episodes of a video course about Back-end engineering.
+
+### Day 10: August 7
+- Read blog: [How can you recognise a good software architecture?](http://www.modernescpp.com/index.php/how-can-you-recognise-a-good-software-architecture/)
+- Watch 2 episodes of a video course about Back-end engineering.
+
+### Day 11: August 8
