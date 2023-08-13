@@ -79,3 +79,22 @@ I’ll try to write here about what I did every day.
 - Watch 2 episodes of a video course about Back-end engineering.
 
 ### Day 11: August 8
+- Watch 1 episodes of a video course about Back-end engineering.
+
+### Day 12: August 9
+- Watch 1 episodes of a video course about Back-end engineering.
+
+### Day 13: August 10
+- Watch 2 episodes of a video course about Back-end engineering.
+
+### Day 14: August 11
+- Watch 2 episodes of a video course about Back-end engineering.
+- Read blog post: [Keeping Elasticsearch in Sync](https://www.elastic.co/blog/found-keeping-elasticsearch-in-sync)
+
+### Day 15: August 12
+- Read one hour of "The Brothers Karamazov" book.
+- Read blog post: [React re-renders guide: everything, all at once](https://www.developerway.com/posts/react-re-renders-guide)
+
+### Day 16: August 13
+- Watch 6 episodes of a video course about Back-end engineering.
+- Read one hour of "The Brothers Karamazov" book.
