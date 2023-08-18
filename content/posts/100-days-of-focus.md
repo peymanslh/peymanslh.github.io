@@ -98,3 +98,24 @@ I’ll try to write here about what I did every day.
 ### Day 16: August 13
 - Watch 6 episodes of a video course about Back-end engineering.
 - Read one hour of "The Brothers Karamazov" book.
+
+### Day 17: August 14
+- Watch 1 episodes of a video course about Back-end engineering.
+
+### Day 18: August 15
+- Watch 2 episodes of a video course about Back-end engineering.
+
+### Day 19: August 16
+- Watch 2 episodes of a video course about Back-end engineering.
+
+### Day 20: August 17
+- Watch 1 episodes of a video course about Back-end engineering.
+- Read about async in Python
+
+### Day 21: August 18
+- Watch 4 episodes of a video course about Back-end engineering(Finished 👏).
+- Watch YouTube video: [Neo4j in 100 Seconds](https://www.youtube.com/watch?v=T6L9EoBy8Zk).
+- Watch YouTube video: [Rust's Discoveries](https://youtu.be/v6RxJsk8otY).
+- Watch YouTube video: [How to Learn Rust](https://www.youtube.com/watch?v=2hXNd6x9sZs).
+- Watch YouTube video: [Rust: Turtles all the way down](https://www.youtube.com/watch?v=PuMXWc0xrK0).
+- Watch YouTube video: [Rust Data Modelling WITHOUT CLASSES](https://www.youtube.com/watch?v=z-0-bbc80JM).
