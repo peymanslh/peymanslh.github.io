@@ -35,13 +35,13 @@ I want to do these in my free time.
 I’ll try to write here about what I did every day.
 
 ### Day 1: July 29
-- Watch 6 episodes of a video course about Back-end engineering.
+- Watch 6 episodes of [Fundamentals of Backend Engineering](https://www.udemy.com/course/fundamentals-of-backend-communications-and-protocols/) course.
 - Read a chapter of “Cracking the Coding Interview” book.
 - Read about how to use `__slots__` in Python from Python wiki.
 
 ### Day 2: July 30
 - Write this blog post.
-- Watch 4 episodes of a video course about Back-end engineering.
+- Watch 4 episodes of [Fundamentals of Backend Engineering](https://www.udemy.com/course/fundamentals-of-backend-communications-and-protocols/) course.
 - Read one hour of "The Brothers Karamazov" book.
 - Read part 0 of: [Implementing Raft](https://eli.thegreenplace.net/2020/implementing-raft-part-0-introduction/) blog post.
 
@@ -51,7 +51,7 @@ I’ll try to write here about what I did every day.
 - 1 Hour learning of Java and Spring framework
 
 ### Day 4: August 1
-- Watch 1 episodes of a video course about Back-end engineering.
+- Watch 1 episodes of [Fundamentals of Backend Engineering](https://www.udemy.com/course/fundamentals-of-backend-communications-and-protocols/) course.
 - Read a chapter of “Cracking the Coding Interview” book.
 
 ### Day 5: August 2
@@ -62,33 +62,33 @@ I’ll try to write here about what I did every day.
 - Read blog post: [What is API-First Development?](https://newsletter.techworld-with-milan.com/p/what-is-api-first-development)
 
 ### Day 7: August 4
-- Watch 3 episodes of a video course about Back-end engineering.
+- Watch 3 episodes of [Fundamentals of Backend Engineering](https://www.udemy.com/course/fundamentals-of-backend-communications-and-protocols/) course.
 
 ### Day 8: August 5
 - Watch video: [Dependency Injection, The Best Pattern](https://www.youtube.com/watch?v=J1f5b4vcxCQ)
 - Watch video: [Premature Optimization](https://www.youtube.com/watch?v=tKbV6BpH-C8)
 - Watch video: [Don't Write Comments](https://www.youtube.com/watch?v=Bf7vDBBOBUA)
-- Watch 1 episodes of a video course about Back-end engineering.
+- Watch 1 episodes of [Fundamentals of Backend Engineering](https://www.udemy.com/course/fundamentals-of-backend-communications-and-protocols/) course.
 
 ### Day 9: August 6
 - Read blog: [An opinionated Python boilerplate](https://duarteocarmo.com/blog/opinionated-python-boilerplate.html)
-- Watch 3 episodes of a video course about Back-end engineering.
+- Watch 3 episodes of [Fundamentals of Backend Engineering](https://www.udemy.com/course/fundamentals-of-backend-communications-and-protocols/) course.
 
 ### Day 10: August 7
 - Read blog: [How can you recognise a good software architecture?](http://www.modernescpp.com/index.php/how-can-you-recognise-a-good-software-architecture/)
-- Watch 2 episodes of a video course about Back-end engineering.
+- Watch 2 episodes of [Fundamentals of Backend Engineering](https://www.udemy.com/course/fundamentals-of-backend-communications-and-protocols/) course.
 
 ### Day 11: August 8
-- Watch 1 episodes of a video course about Back-end engineering.
+- Watch 1 episodes of [Fundamentals of Backend Engineering](https://www.udemy.com/course/fundamentals-of-backend-communications-and-protocols/) course.
 
 ### Day 12: August 9
-- Watch 1 episodes of a video course about Back-end engineering.
+- Watch 1 episodes of [Fundamentals of Backend Engineering](https://www.udemy.com/course/fundamentals-of-backend-communications-and-protocols/) course.
 
 ### Day 13: August 10
-- Watch 2 episodes of a video course about Back-end engineering.
+- Watch 2 episodes of [Fundamentals of Backend Engineering](https://www.udemy.com/course/fundamentals-of-backend-communications-and-protocols/) course.
 
 ### Day 14: August 11
-- Watch 2 episodes of a video course about Back-end engineering.
+- Watch 6 episodes of [Fundamentals of Backend Engineering](https://www.udemy.com/course/fundamentals-of-backend-communications-and-protocols/) course.
 - Read blog post: [Keeping Elasticsearch in Sync](https://www.elastic.co/blog/found-keeping-elasticsearch-in-sync)
 
 ### Day 15: August 12
@@ -96,26 +96,33 @@ I’ll try to write here about what I did every day.
 - Read blog post: [React re-renders guide: everything, all at once](https://www.developerway.com/posts/react-re-renders-guide)
 
 ### Day 16: August 13
-- Watch 6 episodes of a video course about Back-end engineering.
+- Watch 6 episodes of [Fundamentals of Backend Engineering](https://www.udemy.com/course/fundamentals-of-backend-communications-and-protocols/) course.
 - Read one hour of "The Brothers Karamazov" book.
 
 ### Day 17: August 14
-- Watch 1 episodes of a video course about Back-end engineering.
+- Watch 3 episodes of [Fundamentals of Backend Engineering](https://www.udemy.com/course/fundamentals-of-backend-communications-and-protocols/) course.
 
 ### Day 18: August 15
-- Watch 2 episodes of a video course about Back-end engineering.
+- Watch 2 episodes of [Fundamentals of Backend Engineering](https://www.udemy.com/course/fundamentals-of-backend-communications-and-protocols/) course.
 
 ### Day 19: August 16
-- Watch 2 episodes of a video course about Back-end engineering.
+- Watch 2 episodes of [Fundamentals of Backend Engineering](https://www.udemy.com/course/fundamentals-of-backend-communications-and-protocols/) course.
 
 ### Day 20: August 17
-- Watch 1 episodes of a video course about Back-end engineering.
+- Watch 2 episodes of [Fundamentals of Backend Engineering](https://www.udemy.com/course/fundamentals-of-backend-communications-and-protocols/) course.
 - Read about async in Python
 
 ### Day 21: August 18
-- Watch 4 episodes of a video course about Back-end engineering(Finished 👏).
+- Watch 4 episodes of [Fundamentals of Backend Engineering](https://www.udemy.com/course/fundamentals-of-backend-communications-and-protocols/) course(Finished 👏).
 - Watch YouTube video: [Neo4j in 100 Seconds](https://www.youtube.com/watch?v=T6L9EoBy8Zk).
 - Watch YouTube video: [Rust's Discoveries](https://youtu.be/v6RxJsk8otY).
 - Watch YouTube video: [How to Learn Rust](https://www.youtube.com/watch?v=2hXNd6x9sZs).
 - Watch YouTube video: [Rust: Turtles all the way down](https://www.youtube.com/watch?v=PuMXWc0xrK0).
 - Watch YouTube video: [Rust Data Modelling WITHOUT CLASSES](https://www.youtube.com/watch?v=z-0-bbc80JM).
+
+### Day 22: August 19
+- Read 6 pages of “Cracking the Coding Interview” book.
+- Read 26 pages of "Domain Driven Design" book.
+- Watch YouTube video: [Structured Concurrency in Python 3.11 - Alex Grönholm](https://www.youtube.com/watch?v=aB7s5DIdrhQ)
+- Research about async in Python.
+- Watch 4 episodes of [Fundamentals of Database Engineering](https://www.udemy.com/course/database-engines-crash-course/) course.
