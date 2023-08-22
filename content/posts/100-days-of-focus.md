@@ -131,3 +131,9 @@ I’ll try to write here about what I did every day.
 - Watch 3 episodes of [Fundamentals of Database Engineering](https://www.udemy.com/course/database-engines-crash-course/) course.
 - Read blog post: [How to JIT - an introduction](https://eli.thegreenplace.net/2013/11/05/how-to-jit-an-introduction)
 - Read 6 pages of "Domain Driven Design" book.
+
+### Day 24: August 21
+- Watch 3 episodes of [Fundamentals of Database Engineering](https://www.udemy.com/course/database-engines-crash-course/) course.
+
+### Day 25: August 22
+- Watch 1 episodes of [Fundamentals of Database Engineering](https://www.udemy.com/course/database-engines-crash-course/) course.
