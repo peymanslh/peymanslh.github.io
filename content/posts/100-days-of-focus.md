@@ -137,3 +137,33 @@ I’ll try to write here about what I did every day.
 
 ### Day 25: August 22
 - Watch 1 episodes of [Fundamentals of Database Engineering](https://www.udemy.com/course/database-engines-crash-course/) course.
+
+### Day 26: August 23
+- Watch 2 episodes of [Fundamentals of Database Engineering](https://www.udemy.com/course/database-engines-crash-course/) course.
+
+### Day 27: August 24
+- Learn one design pattern each day: [Design patterns for humans](https://github.com/rommel-sunga/design-patterns-for-humans-python)
+- Watch 1 episodes of [Fundamentals of Database Engineering](https://www.udemy.com/course/database-engines-crash-course/) course.
+
+### Day 28: August 25
+- Learn one design pattern each day: [Design patterns for humans](https://github.com/rommel-sunga/design-patterns-for-humans-python)
+- Watch 1 episodes of [Fundamentals of Database Engineering](https://www.udemy.com/course/database-engines-crash-course/) course.
+
+### Day 29: August 26
+- Learn one design pattern each day: [Design patterns for humans](https://github.com/rommel-sunga/design-patterns-for-humans-python)
+- Watch 1 episodes of [Fundamentals of Database Engineering](https://www.udemy.com/course/database-engines-crash-course/) course.
+- Watch YouTube Video: [CPU vs GPU vs TPU vs DPU vs QPU](https://www.youtube.com/watch?v=r5NQecwZs1A)
+
+### Day 30: August 27
+- Learn one design pattern each day: [Design patterns for humans](https://github.com/rommel-sunga/design-patterns-for-humans-python)
+- Watch 1 episodes of [Fundamentals of Database Engineering](https://www.udemy.com/course/database-engines-crash-course/) course.
+- Watch YouTube Video: [How does Python code actually run?](https://www.youtube.com/watch?v=SiSIfWf9k2E)
+
+### Day 31: August 28
+- Learn one design pattern each day: [Design patterns for humans](https://github.com/rommel-sunga/design-patterns-for-humans-python)
+- Watch 1 episodes of [Fundamentals of Database Engineering](https://www.udemy.com/course/database-engines-crash-course/) course.
+
+### Day 32: August 29
+- Learn one design pattern each day: [Design patterns for humans](https://github.com/rommel-sunga/design-patterns-for-humans-python)
+- Watch 2 episodes of [Fundamentals of Database Engineering](https://www.udemy.com/course/database-engines-crash-course/) course.
+- Read blog post: [Consistent hashing algorithm](http://highscalability.com/blog/2023/2/22/consistent-hashing-algorithm.html)
