@@ -51,7 +51,6 @@ cities.add('Rome') # {'Amsterdam', 'Berlin', 'Rome', 'London'}
 ```
 Also, there is an immutable version of set called `frozenset` that you can use.
 ```python
-
 cities = frozenset(['Berlin', 'Amsterdam', 'London', 'Amsterdam']) # {'Amsterdam', 'Berlin', 'London'}
 ```
 See Python documentation: [set and fronzenset](https://docs.python.org/3/library/stdtypes.html#set).

@@ -1,13 +1,14 @@
 // #242938
 :root {
-  --font-family-heading: 'Poppins', sans-serif;
-  --font-family-paragraph: Helvetica, sans-serif;
+  --font-family-heading: 'Libre Caslon Text', 'Pridi', serif;
+  --font-family-paragraph: 'Pridi', serif;
   --font-family-monospace: 'IBM Plex Mono', monospace;
-  --base-color: #ffffff;
+  --base-color: #191d28;
   --base-offset-color: #eaeaea;
+  --secondary-color: #506477;
   --highlight-color: #27e8a7;
-  --heading-color: #1c1b1d;
-  --text-color: #4e5157;
+  --heading-color: #ffffff;
+  --text-color: #e4f0fb;
 }
 
 $breakpoints: (
@@ -48,6 +49,6 @@ body {
 }
 
 .wrapper {
-  max-width: 1000px;
+  max-width: 800px;
   margin: 0 auto;
 }

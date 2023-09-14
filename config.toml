@@ -1,6 +1,6 @@
 baseURL = "https://peyman.blog/"
 languageCode = "en-us"
-title = "peyman.blog"
+title = "Peyman Salehi"
 themesDir = "themes"
 theme = "blueberry"
 

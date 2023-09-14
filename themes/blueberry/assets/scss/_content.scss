@@ -6,13 +6,21 @@ a {
   }
 }
 
+h1 {
+  font-size: 1.5rem;
+}
+h2 {
+  font-size: 1.3rem;
+}
+h3 {
+  font-size: 1.1rem;
+}
 h1,
 h2,
 h3 {
-  margin-top: 20px;
-  margin-bottom: 20px;
   color: var(--heading-color);
   font-family: var(--font-family-heading);
+  font-weight: 800;
   a {
     color: var(--heading-color);
   }
@@ -20,49 +28,19 @@ h3 {
 p {
   color: var(--text-color);
   font-family: var(--font-family-paragraph);
-  font-size: 18px;
-  line-height: 24px;
+  font-weight: 400;
+  font-size: 1.1rem;
 }
 
 
 .content {
-  font-size: 18px;
+  h1, h2, h3 {
+    margin-top: 50px;
+    margin-bottom: 20px;
+  }
   p {
-    font-size: 18px;
-    line-height: 1.6;
     margin: 0;
     padding: 0;
-    margin-bottom: 20px;
-  }
-  h1 {
-    font-size: 40px;
-    line-height: 1.6;
-    font-weight: bold;
-    margin-top: 30px;
-    margin-bottom: 20px;
-    &:first-of-type {
-      margin-top: 0;
-    }
-  }
-  h2 {
-    font-size: 28px;
-    line-height: 1.4;
-    font-weight: bold;
-    margin-top: 30px;
-    margin-bottom: 20px;
-    &:first-of-type {
-      margin-top: 0;
-    }
-    @include breakpoint('small') {
-      font-size: 30px;
-      line-height: 1.4;
-    }
-  }
-  h3 {
-    font-size: 22px;
-    line-height: 1.4;
-    font-weight: bold;
-    margin-top: 30px;
     margin-bottom: 20px;
   }
   a {
@@ -105,10 +83,9 @@ p {
     font-family: var(--font-family-monospace);
   }
   .highlight {
+    border-radius: 8px;
     pre {
       border-radius: 3px;
-      font-size: 14px;
-      line-height: 18px;
       padding: 20px;
       overflow: auto;
       font-family: var(--font-family-monospace);
@@ -116,20 +93,25 @@ p {
       code {
         background-color: transparent !important;
         border-radius: none;
+        font-size: 0.9rem !important;
+        font-weight: 500;
       }
     }
   }
 
   code {
-    background-color: var(--base-offset-color);
-    padding: 0px 4px;
+    background-color: rgba(255, 255, 255, 0.05);
+    padding: 0px 4px 3px 4px;
     border-radius: 3px;
-    font-size: 14px;
+    font-size: 1rem;
   }
 }
 
 .dot {
   color: var(--highlight-color);
+  font-size: 3rem;
+  padding-left: 5px;
+  font-family: var(--font-family-paragraph);
 }
 
 .row {
@@ -157,18 +139,20 @@ table {
   text-align: left;
   border-collapse: collapse;
   margin-bottom: 20px;
+  font-family: var(--font-family-monospace);
+  font-size: 0.9rem;
 
   thead {
     th,
     td {
-      border-bottom: 2px solid rgba(0, 0, 0, 0.7);
+      border-bottom: 2px solid var(--secondary-color);
       padding: 5px 10px;
     }
   }
   tbody {
     th,
     td {
-      border-bottom: 1px dotted rgba(0, 0, 0, 0.3);
+      border-bottom: 1px dotted var(--secondary-color);
       padding: 5px 10px;
     }
   }

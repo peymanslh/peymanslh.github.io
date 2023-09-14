@@ -8,36 +8,14 @@
   {{ end }}
   <div class="intro">
     <h1>{{ .Title }}{{ if .Site.Params.addDot }}<span class="dot">.</span>{{ end }}</h1>
-    <div class="row">
-      <div class="column">
-        <div class="content">
-          <div class="vertical-content">
-            {{ .Content }}
-          </div>
-        </div>
-      </div>
-      <div class="column">
+    <div class="content">
+      <div class="vertical-content">
         {{ if .Params.image }}
         <img src="{{ .Params.image | relURL }}" />
         {{ end }}
+        {{ .Content }}
       </div>
     </div>
-
-
-    <h2>Contact</h2>
-    <p>
-      You can find me on:
-    </p>
-    <ul class="contact-about">
-      <li><a href="https://github.com/peymanslh">Github</a></li>
-      <li><a href="https://twitter.com/_peymanslh">Twitter</a></li>
-      <li><a href="https://instagram.com/peyman.slh">Instagram</a></li>
-      <li><a href="https://www.linkedin.com/in/peymanslh">LinkedIn</a></li>
-    </ul>
-    <p>
-      Or, send me an email: slh.peyman [at] gmail.com
-    </p>
-
   </div>
 </div>
 {{ end }}
