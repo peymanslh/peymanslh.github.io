@@ -19,7 +19,7 @@ not doing weird stuff!
 
 You can find me on:
 - [GitHub](https://github.com/peymanslh)
-- [Twitter](https://twitter.com/_peymanslh)
+- [BlueSky](https://bsky.app/profile/peymanslh.bsky.social)
 - [LinkedIn](https://www.linkedin.com/in/peymanslh)
 
 Or, send me an email: slh.peyman [at] gmail.com
