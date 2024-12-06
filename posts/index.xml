@@ -1,3 +1,77 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blog on Peyman Salehi</title><link>https://peyman.blog/posts/</link><description>Recent content in Blog on Peyman Salehi</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>slh.peyman@gmail.com (Peyman Salehi)</managingEditor><webMaster>slh.peyman@gmail.com (Peyman Salehi)</webMaster><lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://peyman.blog/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>date_trunc function in PostgreSQL</title><link>https://peyman.blog/posts/date-trunc-function-in-postgresql/</link><pubDate>Fri, 10 Mar 2023 14:18:42 +0330</pubDate><author>slh.peyman@gmail.com (Peyman Salehi)</author><guid>https://peyman.blog/posts/date-trunc-function-in-postgresql/</guid><description>Recently I needed to write a query in SQL to retrieve a bunch of data from a big table with a specific interval. And I don&amp;rsquo;t know, is there any easier way in SQL to do this but I found date_trunc function in PostgreSQL that is an excellent solution for my problem.
-The problem with an example Consider the following table.
-id datetime flight price 1 2023-03-07 12:45:12.</description></item><item><title>Data Structures in Python</title><link>https://peyman.blog/posts/data-structures-in-python/</link><pubDate>Mon, 06 Mar 2023 19:49:30 +0330</pubDate><author>slh.peyman@gmail.com (Peyman Salehi)</author><guid>https://peyman.blog/posts/data-structures-in-python/</guid><description>When we code in Python usually there are multiple data structures such as list, tuple, set, and dict that we mostly use. But besides these four, Python has other data structures that each of them like those four has some strengths and weaknesses based on their implementation and structure that we can use, and it&amp;rsquo;s better to know them because sometimes it might help and have a better performance and features based on your problem than list, tuple, set, and dict.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blog on Peyman Salehi</title><link>https://peyman.blog/posts/</link><description>Recent content in Blog on Peyman Salehi</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 10 Mar 2023 14:18:42 +0330</lastBuildDate><atom:link href="https://peyman.blog/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>date_trunc function in PostgreSQL</title><link>https://peyman.blog/posts/date-trunc-function-in-postgresql/</link><pubDate>Fri, 10 Mar 2023 14:18:42 +0330</pubDate><guid>https://peyman.blog/posts/date-trunc-function-in-postgresql/</guid><description>&lt;p>Recently I needed to write a query in SQL to retrieve a bunch of data from a big table with a specific interval. And I don&amp;rsquo;t know, is there any easier way in SQL to do this but I found &lt;code>date_trunc&lt;/code> function in PostgreSQL that is an excellent solution for my problem.&lt;/p>
+&lt;h1 id="the-problem-with-an-example">The problem with an example&lt;/h1>
+&lt;p>Consider the following table.&lt;/p>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>id&lt;/th>
+ &lt;th>datetime&lt;/th>
+ &lt;th>flight&lt;/th>
+ &lt;th>price&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>1&lt;/td>
+ &lt;td>2023-03-07 12:45:12.231069+00&lt;/td>
+ &lt;td>AB12&lt;/td>
+ &lt;td>300&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>2&lt;/td>
+ &lt;td>2023-03-07 12:50:23.341069+00&lt;/td>
+ &lt;td>AB12&lt;/td>
+ &lt;td>295&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>3&lt;/td>
+ &lt;td>2023-03-07 13:10:19.241069+00&lt;/td>
+ &lt;td>AB12&lt;/td>
+ &lt;td>295&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>4&lt;/td>
+ &lt;td>2023-03-07 13:33:45.321069+00&lt;/td>
+ &lt;td>AB12&lt;/td>
+ &lt;td>299&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>6&lt;/td>
+ &lt;td>2023-03-07 13:51:58.311069+00&lt;/td>
+ &lt;td>AB12&lt;/td>
+ &lt;td>299&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>7&lt;/td>
+ &lt;td>2023-03-07 13:58:47.141069+00&lt;/td>
+ &lt;td>AB12&lt;/td>
+ &lt;td>298&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>8&lt;/td>
+ &lt;td>2023-03-07 14:15:19.151069+00&lt;/td>
+ &lt;td>AB12&lt;/td>
+ &lt;td>286&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>9&lt;/td>
+ &lt;td>2023-03-07 14:39:55.221069+00&lt;/td>
+ &lt;td>AB12&lt;/td>
+ &lt;td>289&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>10&lt;/td>
+ &lt;td>2023-03-07 15:48:29.111069+00&lt;/td>
+ &lt;td>AB12&lt;/td>
+ &lt;td>289&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>..&lt;/td>
+ &lt;td>..&lt;/td>
+ &lt;td>..&lt;/td>
+ &lt;td>..&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;p>And, we want to fetch one row per hour(or the last price for each hour) for flight &lt;code>AB12&lt;/code>.
+The output should be something like this.&lt;/p></description></item><item><title>Data Structures in Python</title><link>https://peyman.blog/posts/data-structures-in-python/</link><pubDate>Mon, 06 Mar 2023 19:49:30 +0330</pubDate><guid>https://peyman.blog/posts/data-structures-in-python/</guid><description>&lt;p>When we code in Python usually there are multiple data structures such as &lt;code>list&lt;/code>, &lt;code>tuple&lt;/code>, &lt;code>set&lt;/code>, and &lt;code>dict&lt;/code> that we mostly use. But besides these four, Python has other data structures that each of them like those four has some strengths and weaknesses based on their implementation and structure that we can use, and it&amp;rsquo;s better to know them because sometimes it might help and have a better performance and features based on your problem than &lt;code>list&lt;/code>, &lt;code>tuple&lt;/code>, &lt;code>set&lt;/code>, and &lt;code>dict&lt;/code>.&lt;/p></description></item></channel></rss>
