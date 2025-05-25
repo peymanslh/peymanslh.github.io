@@ -8,7 +8,8 @@ pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 pygmentsUseClasses = false
 PygmentsStyle = "nord"
-paginate = 9
+
+pagination.pagerSize = 9
 
 disqusShortname = 'peymanslh'
 
@@ -29,7 +30,7 @@ disqusShortname = 'peymanslh'
 [taxonomies]
     tag = "tags"
 
-copyright = "2023 Peyman Salehi All rights reserved"
+copyright = "2025 Peyman Salehi All rights reserved"
 languageCode = "en-us"
 
 [Author]

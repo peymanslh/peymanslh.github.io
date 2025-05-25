@@ -1,6 +1,6 @@
 ---
 title: "date_trunc function in PostgreSQL"
-date: 2023-03-10T14:18:42+03:30
+date: 2023-03-10T14:18:42+02:00
 tags: ["sql", "postgresql"]
 description: "Use date_trunc function in PostgreSQL to get a series of data based on a specific interval."
 draft: false

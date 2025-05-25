@@ -1,6 +1,6 @@
 ---
 title: "Data Structures in Python"
-date: 2023-03-06T19:49:30+03:30
+date: 2023-03-06T19:49:30+02:00
 tags: ["python", "data-structures"]
 description: "A brief explanation of some data structures in Python besides list, dict, and tuple that you should know when coding in Python."
 ---
