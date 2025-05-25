@@ -4,12 +4,15 @@ title = "Peyman Salehi"
 themesDir = "themes"
 theme = "blueberry"
 
+copyright = "© 2025 Peyman Salehi."
+
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 pygmentsUseClasses = false
 PygmentsStyle = "nord"
 
-pagination.pagerSize = 9
+[pagination]
+  pagerSize = 9
 
 disqusShortname = 'peymanslh'
 
@@ -29,9 +32,6 @@ disqusShortname = 'peymanslh'
 
 [taxonomies]
     tag = "tags"
-
-copyright = "2025 Peyman Salehi All rights reserved"
-languageCode = "en-us"
 
 [Author]
     name = "Peyman Salehi"
