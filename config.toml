@@ -22,7 +22,7 @@ disqusShortname = 'peymanslh'
     min = "0.55.0"
 
 [params]
-  google_analytics_id = ""
+  google_analytics_id = "G-E89MSWB210"
   twitter_handle = "@_peymanslh"
   showAuthorOnHomepage = false
   showAuthorOnPosts = false
